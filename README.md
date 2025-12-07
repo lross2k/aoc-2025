@@ -4,6 +4,7 @@ The goal is to finish my first aoc, for which I will be using Python because I'm
 
 This year's AOC is only 12 days instead of the traditional 24 days, this is ~outrageous~ *great* for someone busy like me! I have tried AOC for 2 years, but I feel like this year it's finally happening.
 
+```txt
       \ /
      - * -
       /o\
@@ -16,23 +17,24 @@ This year's AOC is only 12 days instead of the traditional 24 days, this is ~out
 ~`~`~`|~|`~`~`~
      |===|
      '---'  ldb
+```
 
 ## Progress
 
 ### 58%
 
--[x] day-01 (second part pending)
--[x] day-02
--[x] day-03 (second part pending)
--[x] day-04
--[x] day-05
--[x] day-06
--[x] day-07
--[ ] day-08
--[ ] day-09
--[ ] day-10
--[ ] day-11
--[ ] day-12
+- day-01 [* ]
+- day-02 [**]
+- day-03 [* ]
+- day-04 [**]
+- day-05 [**]
+- day-06 [**]
+- day-07 [**]
+- day-08 [  ]
+- day-09 [  ]
+- day-10 [  ]
+- day-11 [  ]
+- day-12 [  ]
 
 ## Details
 
